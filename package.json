@@ -1,0 +1,22 @@
+{
+  "name": "react-less-webpack-bootstrap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ericprieto/react-less-webpack-bootstrap.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ericprieto/react-less-webpack-bootstrap/issues"
+  },
+  "homepage": "https://github.com/ericprieto/react-less-webpack-bootstrap#readme",
+  "dependencies": {
+    "react": "^0.13.3"
+  }
+}
