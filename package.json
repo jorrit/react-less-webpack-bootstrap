@@ -5,8 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "node dev-server.js",
-    "clean-dist": "rm -rf dist/*",
-    "build": "npm run clean-dist && npm run less && webpack",
+    "build": "sh build.sh",
     "less": "lessc src/less/main.less dist/assets/bundle.css"
   },
   "repository": {

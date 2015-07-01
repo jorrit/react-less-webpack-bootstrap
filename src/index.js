@@ -1,9 +1,4 @@
-class App
-{
-	constructor()
-	{
-		alert('app');
-	}
-}
+import React from 'react';
+import App from './components';
 
-let app = new App();
+React.render(<App />, document.body);
